@@ -1,4 +1,4 @@
-# **TCP 통신 파일 전송기**
+# **TCP 통신 파일 전송기** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoos007%2FUnivAssignment-TCPFileTransmitter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 TCP를 이용한 파일 전송 프로그램 입니다.
 
 C로 작성되었습니다.
@@ -13,7 +13,7 @@ TCP 통신 파일 전송기
 2. 복수의 클라이언트로 파일 전송 지원
 
 ## 프로젝트 기간
-2022.06.14 ~ 2019.06.21
+2022.06.14 ~ 2022.06.21
 
 ## 참여인원
 개인 프로젝트
